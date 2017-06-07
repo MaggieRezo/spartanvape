@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>eurovatgenerator</name>
+	<displayName><![CDATA[Generador de IVA Europeo]]></displayName>
+	<version><![CDATA[1.1.1]]></version>
+	<description><![CDATA[Cumpla f&aacute;cilmente con la nueva directiva europea sobre el IVA para productos virtuales.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[pricing_promotion]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

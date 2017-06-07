@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Spartan Vape</title>
+	<script src="https://use.fontawesome.com/7f9c863f52.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+	<style>
+		html{
+			height: 100%;
+		}
+		body{
+			font-family: 'Questrial', sans-serif;
+			background: #fff3d6;
+			position: relative;
+			height: 100%;
+			width: 100%;
+			margin:0;
+			padding: 0;
+		}
+		.center{
+			position: absolute;
+			top:50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
+		h1{
+			position: relative;
+			text-transform: uppercase;
+			font-size: 50px;
+			padding:0;
+			margin:0;
+			font-weight: normal;
+		}
+		h1:after{
+			content:"";
+			width: 60%;
+			height: 5px;
+			background: black;
+			position: absolute;
+			bottom: 0;
+			right: 0;
+		}
+		a{
+			text-decoration: none;
+			color: black;
+		}
+		.mail{
+			color: black;
+			font-size: 30px;
+			float: right;
+			margin-top: 5px;
+		}
+
+		@media screen and (max-width: 768px){
+			h1{
+				font-size: 25px;
+			}
+			h1:after{
+				height: 2px;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="center">
+		<h1><a href="mailto:info@spartanvape.com">Próximamente...</a></h1>
+		<a href="mailto:info@spartanvape.com" class="mail"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+	</div>
+</body>
+</html>

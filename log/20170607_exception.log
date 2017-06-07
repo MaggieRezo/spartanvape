@@ -1,0 +1,6 @@
+*ERROR* 	2017/06/07 - 14:56:41: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'myspartanv'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/06/07 - 14:56:46: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'myspartanv'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/06/07 - 14:57:14: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'myspartanv'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/06/07 - 14:59:11: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'myspartanv'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/06/07 - 14:59:12: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'myspartanv'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/06/07 - 14:59:16: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'myspartanv'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
